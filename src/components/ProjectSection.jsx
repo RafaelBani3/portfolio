@@ -9,7 +9,7 @@ import { ExternalLink } from "lucide-react";
             type: "Fullstack",
             description: "Aplikasi web untuk manajemen pemeliharaan fasilitas dengan multi-level approval, Work Order, Material Request, dan tracking progres.",
             tools: ["Laravel 11", "Laravel Spatie", "AJAX DataTables", "DropzoneJS", "Javascript", "Tailwind CSS", "MySQL"],
-            image: "/public/porto7.png",
+            image: "/porto7.PNG",
             link: "https://github.com/RafaelBani3/bm-maintenance.git"
         },
         {
