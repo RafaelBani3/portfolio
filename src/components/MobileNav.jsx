@@ -12,23 +12,23 @@ const MotionLink = motion(Link);
 const links = [
     {
         name: "Home",
-        path: "#",
+        path: "#home",
     },
     {
         name: "About Me",
-        path: "#About",
+        path: "#about",
     },
     {
         name: "Skill",
-        path: "#Skill",
+        path: "#skill",
     },
     {
         name: "Experience",
-        path: "#Exp",
+        path: "#experience",
     },
     {
         name: "Project",
-        path: "#Project",
+        path: "#project",
     },
 ]
 
